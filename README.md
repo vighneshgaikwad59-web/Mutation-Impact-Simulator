@@ -38,8 +38,6 @@ Mutation
   Impact     : MISSENSE ⚠️
 ```
 
-## 🛠️ Tech
-Python 3.11+, argparse, matplotlib (optional chart)
 
 ## 🔮 Ideas for next version
 - Load sequences from FASTA files
